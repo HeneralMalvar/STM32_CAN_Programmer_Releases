@@ -1,6 +1,8 @@
-UPDATE_MANIFEST_URL = (
-    "https://raw.githubusercontent.com/"
-    "HeneralMalvar/"
-    "STM32_CAN_Programmer_Releases/"
-    "main/update.json"
-)
+{
+  "product": "STM32 CAN Programmer",
+  "version": "2.2.0",
+  "installer_url": "https://github.com/HeneralMalvar/STM32_CAN_Programmer_Releases/releases/download/v2.2.0/STM32_CAN_Flasher_Setup_v2.2.0.exe",
+  "sha256": "5c37cda53f0704064c02cb165c0add3433aae81828adaead2b8016a1b2db52e9",
+  "mandatory": false,
+  "release_notes": "Initial release of online update"
+}
