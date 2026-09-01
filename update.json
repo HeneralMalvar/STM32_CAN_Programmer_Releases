@@ -4,5 +4,5 @@
   "installer_url": "https://github.com/HeneralMalvar/STM32_CAN_Programmer_Releases/releases/download/v2.2.1/STM32_CAN_Flasher_Setup_v2.2.1.exe",
   "sha256": "670c29c7762c38dd82db6a034bdd806d8ba6635c67173a91c68a34bb9f04838e",
   "mandatory": false,
-  "release_notes": "Online automatic software update support\nStable STM32_CAN_Programmer.exe filename\nInstaller and shortcut update improvements\nInclude Hex Files"
+  "release_notes": "1.Online automatic software update support.\n2.Stable STM32_CAN_Programmer.exe filename.\n3.Installer and shortcut update improvements.\n4.Include Hex Files."
 }
