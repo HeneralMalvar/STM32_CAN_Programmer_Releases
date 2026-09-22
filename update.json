@@ -1,8 +1,8 @@
 {
   "product": "STM32 CAN Programmer",
-  "version": "2.4.0",
-  "installer_url": "https://github.com/HeneralMalvar/STM32_CAN_Programmer_Releases/releases/download/v2.4.0/STM32_CAN_Flasher_Setup_v2.4.0.exe",
-  "sha256": "bcceb2700c5189ada139160676a445e13eb4531204e14722fe4b34679305fdeb",
+  "version": "2.4.1",
+  "installer_url": "https://github.com/HeneralMalvar/STM32_CAN_Programmer_Releases/releases/download/v2.4.1/STM32_CAN_Flasher_Setup_v2.4.1.exe",
+  "sha256": "271c46a50097acfbe48cb60e701b4eea8b037ea95dd93c8cb29df64dab24fa0c",
   "mandatory": false,
-  "release_notes": "1. Added Built-in CAN Analyzer\n2. Added User Guide Button + HTML"
+  "release_notes": "1.) Update User Guide"
 }
