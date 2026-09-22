@@ -2,7 +2,7 @@
   "product": "STM32 CAN Programmer",
   "version": "2.4.1",
   "installer_url": "https://github.com/HeneralMalvar/STM32_CAN_Programmer_Releases/releases/download/v2.4.1/STM32_CAN_Flasher_Setup_v2.4.1.exe",
-  "sha256": "271c46a50097acfbe48cb60e701b4eea8b037ea95dd93c8cb29df64dab24fa0c",
+  "sha256": "829b61d828a15aa66b159ad01c319b0d482714ddcc421dae6931bf43b5233c64",
   "mandatory": false,
   "release_notes": "1.) Update User Guide"
 }
